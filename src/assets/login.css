@@ -84,7 +84,7 @@
 }
 
 .loginBtn:hover {
-  background: linear-gradient(135deg, #005fa3, #0096c7);
+  background: linear-gradient(135deg, #005fa3, #dc0f79);
   transform: translateY(-2px);
   box-shadow: 0px 6px 15px rgba(0, 119, 255, 0.4);
 }
